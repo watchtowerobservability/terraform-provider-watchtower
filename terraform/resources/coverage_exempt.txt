@@ -1,0 +1,3 @@
+shaping-rules # routes land with P6-P5 and carry no name in the body; add a kind when they merge (G6-12)
+incidents # runtime records, not configuration
+sessions # runtime records, not configuration
